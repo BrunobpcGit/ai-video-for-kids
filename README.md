@@ -47,7 +47,7 @@ A versão completa faz todo o trabalho pesado para você:
 | Guia das ferramentas de IA e soluções para problemas comuns | — | ✅ |
 | Notas para o Brasil: ECA Digital, LGPD, "made for kids" do YouTube | — | ✅ |
 
-👉 **[Obter a versão completa](LINK_DA_LOJA?utm_source=github&utm_medium=readme&utm_campaign=ai-video-for-kids)**
+👉 **[Obter a versão completa](https://capafy.ai/agent/ai-video-for-kids/8121585536?ct=gitub&utm_source=github&utm_medium=readme&utm_campaign=ai-video-for-kids)**
 
 ---
 
@@ -57,4 +57,4 @@ A versão completa faz todo o trabalho pesado para você:
 
 This repository contains the free **Lite** version (script, character and storyboard workflow). The full version adds an automatic validator, TTS-ready narration, `.srt` subtitles, a publishing kit and automatic MP4 assembly with ffmpeg.
 
-👉 **[Get the full version](LINK_DA_LOJA?utm_source=github&utm_medium=readme&utm_campaign=ai-video-for-kids)**
+👉 **[Get the full version](https://capafy.ai/agent/ai-video-for-kids/8121585536?ct=gitub&utm_source=github&utm_medium=readme&utm_campaign=ai-video-for-kids)**
