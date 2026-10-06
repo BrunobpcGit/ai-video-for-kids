@@ -1,0 +1,164 @@
+{
+  "title": "Pip and the Four Colors",
+  "language": "en",
+  "age_band": "4-5",
+  "format": "learning",
+  "length": "short",
+  "platform": "youtube_shorts",
+  "aspect_ratio": "9:16",
+  "learning_goal": "Recognize and name red, yellow, blue and green.",
+  "takeaway": "Colors are all around us, and we can find and name them.",
+  "style_bible": {
+    "art_style": "flat 2D vector cartoon, soft rounded shapes, thick clean outlines, storybook look",
+    "palette": [
+      "sunny yellow",
+      "sky blue",
+      "leaf green",
+      "warm coral",
+      "cream"
+    ],
+    "lighting": "soft daylight, warm and cheerful, no harsh shadows",
+    "rules": [
+      "no text inside the image",
+      "no photorealism",
+      "simple uncluttered background",
+      "friendly expressions only"
+    ]
+  },
+  "characters": [
+    {
+      "id": "pip",
+      "name": "Pip",
+      "description": "Pip, a small round puppy with cream fur, big floppy brown ears, one brown patch over the left eye, a red neckerchief, large friendly eyes, always smiling"
+    }
+  ],
+  "music": "gentle ukulele and soft xylophone, cheerful, about 100 bpm, loops smoothly",
+  "voice": "warm, friendly young female voice, slow and clear, smiling tone, small pause after each question",
+  "allowed_terms": [],
+  "publishing": {
+    "title": "Learn 4 Colors with Pip the Puppy 🐶 Red, Yellow, Blue, Green",
+    "description": "Join Pip the puppy on a sunny walk and learn four colors: red, yellow, blue and green. For ages 3-5. Made with AI-assisted illustration and voice; original story and characters.",
+    "tags": [
+      "colors for kids",
+      "learn colors",
+      "toddler learning",
+      "preschool",
+      "kids shorts"
+    ],
+    "thumbnail_idea": "Pip holding a big red apple, smiling at the viewer, with yellow, blue and green circles floating behind him"
+  },
+  "scenes": [
+    {
+      "id": 1,
+      "duration": 6,
+      "setting": "sunny meadow with three tall sunflowers",
+      "visual": "Pip stands in the middle of the meadow and waves at the camera",
+      "characters": [
+        "pip"
+      ],
+      "action": "Pip waves one paw and smiles",
+      "camera": "slow push-in, eye level",
+      "narration": "Hello, friends! I am Pip. Let's find colors today!",
+      "on_screen_text": "Colors!",
+      "sound": "soft happy intro jingle, then music under the voice"
+    },
+    {
+      "id": 2,
+      "duration": 8,
+      "setting": "sunny meadow with an apple tree",
+      "visual": "Pip points at a big shiny red apple hanging on a branch",
+      "characters": [
+        "pip"
+      ],
+      "action": "Pip points at the apple and tilts his head",
+      "camera": "static, medium shot",
+      "narration": "Look! A red apple. Red, red, red! Can you say red?",
+      "on_screen_text": "Red",
+      "sound": "small pop sound when the apple appears; pause after the question"
+    },
+    {
+      "id": 3,
+      "duration": 7,
+      "setting": "open meadow with a big bright sun in the sky",
+      "visual": "Pip looks up at a big yellow sun with a friendly face",
+      "characters": [
+        "pip"
+      ],
+      "action": "Pip shades his eyes with one paw and smiles",
+      "camera": "gentle tilt up from Pip to the sky",
+      "narration": "Yellow is the sun. Yellow, yellow, yellow!",
+      "on_screen_text": "Yellow",
+      "sound": "warm chime"
+    },
+    {
+      "id": 4,
+      "duration": 7,
+      "setting": "calm blue sky with two fluffy white clouds",
+      "visual": "Pip lies on his back on the grass looking at the blue sky",
+      "characters": [
+        "pip"
+      ],
+      "action": "Pip's tail wags slowly",
+      "camera": "static, wide shot",
+      "narration": "Blue is the sky. Blue, blue, blue!",
+      "on_screen_text": "Blue",
+      "sound": "soft whoosh of breeze"
+    },
+    {
+      "id": 5,
+      "duration": 9,
+      "setting": "green grass field with small flowers",
+      "visual": "Pip sits on bright green grass and pats it with his paw",
+      "characters": [
+        "pip"
+      ],
+      "action": "Pip pats the grass and looks at the viewer",
+      "camera": "slow push-in, low angle",
+      "narration": "Green is the grass. Green, green, green! Can you find something green?",
+      "on_screen_text": "Green",
+      "sound": "gentle rustle; 2 seconds of silence after the question"
+    },
+    {
+      "id": 6,
+      "duration": 6,
+      "setting": "meadow with a little green frog on a lily pad in a pond",
+      "visual": "Pip and a small green frog look at each other happily",
+      "characters": [
+        "pip"
+      ],
+      "action": "The frog hops once and Pip laughs",
+      "camera": "static, medium shot",
+      "narration": "A green frog! You found it!",
+      "on_screen_text": "Green frog!",
+      "sound": "cheerful boing"
+    },
+    {
+      "id": 7,
+      "duration": 9,
+      "setting": "cream background with four large colored circles in a row",
+      "visual": "Four big circles in red, yellow, blue and green appear one after another, Pip stands beside them",
+      "characters": [
+        "pip"
+      ],
+      "action": "Pip points to each circle in turn",
+      "camera": "static, wide shot",
+      "narration": "Red, yellow, blue, and green! Let's count our colors: one, two, three, four!",
+      "on_screen_text": "1  2  3  4",
+      "sound": "one soft note for each circle"
+    },
+    {
+      "id": 8,
+      "duration": 6,
+      "setting": "sunny meadow with three tall sunflowers",
+      "visual": "Pip jumps happily with a small rainbow of confetti in the air",
+      "characters": [
+        "pip"
+      ],
+      "action": "Pip jumps and lands smiling",
+      "camera": "slow pull-back",
+      "narration": "Wow! You did it! Goodbye, friends!",
+      "on_screen_text": "Bye!",
+      "sound": "happy cheer, music resolves and fades"
+    }
+  ]
+}

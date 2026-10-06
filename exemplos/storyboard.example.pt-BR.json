@@ -1,0 +1,150 @@
+{
+  "title": "Pipo e as Quatro Cores",
+  "language": "pt-BR",
+  "age_band": "2-3",
+  "format": "learning",
+  "length": "short",
+  "platform": "youtube_shorts",
+  "aspect_ratio": "9:16",
+  "learning_goal": "Reconhecer e nomear vermelho, amarelo, azul e verde.",
+  "takeaway": "As cores estão em todo lugar, e a gente sabe o nome delas.",
+  "style_bible": {
+    "art_style": "flat 2D vector cartoon, soft rounded shapes, thick clean outlines, storybook look",
+    "palette": [
+      "sunny yellow",
+      "sky blue",
+      "leaf green",
+      "warm coral",
+      "cream"
+    ],
+    "lighting": "soft daylight, warm and cheerful, no harsh shadows",
+    "rules": [
+      "no text inside the image",
+      "no photorealism",
+      "simple uncluttered background",
+      "friendly expressions only"
+    ]
+  },
+  "characters": [
+    {
+      "id": "pipo",
+      "name": "Pipo",
+      "description": "Pipo, a small round puppy with cream fur, big floppy brown ears, one brown patch over the left eye, a red neckerchief, large friendly eyes, always smiling"
+    }
+  ],
+  "music": "gentle ukulele and soft xylophone, cheerful, about 95 bpm, loops smoothly",
+  "voice": "voz feminina calorosa e alegre, português do Brasil, fala lenta e clara, pausa depois de cada pergunta",
+  "allowed_terms": [],
+  "publishing": {
+    "title": "Aprenda as Cores com o Pipo 🐶 Vermelho, Amarelo, Azul e Verde",
+    "description": "Passeie com o cachorrinho Pipo e aprenda quatro cores: vermelho, amarelo, azul e verde. Para crianças de 2 a 4 anos. Ilustrações e voz feitas com ajuda de inteligência artificial; história e personagens originais.",
+    "tags": [
+      "cores para crianças",
+      "aprender as cores",
+      "vídeo infantil",
+      "educação infantil",
+      "desenho educativo"
+    ],
+    "thumbnail_idea": "Pipo holding a big red apple, smiling at the viewer, with yellow, blue and green circles floating behind him"
+  },
+  "scenes": [
+    {
+      "id": 1,
+      "duration": 5,
+      "setting": "sunny meadow with three tall sunflowers",
+      "visual": "Pipo stands in the middle of the meadow and waves at the camera",
+      "characters": [
+        "pipo"
+      ],
+      "action": "Pipo waves one paw and smiles",
+      "camera": "slow push-in, eye level",
+      "narration": "Oi, amigo! Vamos ver as cores?",
+      "on_screen_text": "Cores!",
+      "sound": "soft happy jingle, then music under the voice"
+    },
+    {
+      "id": 2,
+      "duration": 7,
+      "setting": "sunny meadow with an apple tree",
+      "visual": "Pipo points at a big shiny red apple hanging on a branch",
+      "characters": [
+        "pipo"
+      ],
+      "action": "Pipo points at the apple and tilts his head",
+      "camera": "static, medium shot",
+      "narration": "Olha a maçã! Vermelho! Fala comigo: vermelho!",
+      "on_screen_text": "Vermelho",
+      "sound": "small pop when the apple appears; 2 seconds of silence after the question"
+    },
+    {
+      "id": 3,
+      "duration": 6,
+      "setting": "open meadow with a big bright sun in the sky",
+      "visual": "Pipo looks up at a big yellow sun with a friendly face",
+      "characters": [
+        "pipo"
+      ],
+      "action": "Pipo shades his eyes with one paw and smiles",
+      "camera": "gentle tilt up from Pipo to the sky",
+      "narration": "O sol é amarelo. Amarelo!",
+      "on_screen_text": "Amarelo",
+      "sound": "warm chime"
+    },
+    {
+      "id": 4,
+      "duration": 6,
+      "setting": "calm blue sky with two fluffy white clouds",
+      "visual": "Pipo lies on his back on the grass looking at the blue sky",
+      "characters": [
+        "pipo"
+      ],
+      "action": "Pipo's tail wags slowly",
+      "camera": "static, wide shot",
+      "narration": "O céu é azul. Azul!",
+      "on_screen_text": "Azul",
+      "sound": "soft breeze"
+    },
+    {
+      "id": 5,
+      "duration": 7,
+      "setting": "green grass field with small flowers",
+      "visual": "Pipo sits on bright green grass and pats it with his paw",
+      "characters": [
+        "pipo"
+      ],
+      "action": "Pipo pats the grass and looks at the viewer",
+      "camera": "slow push-in, low angle",
+      "narration": "A grama é verde. Verde! Muito bem!",
+      "on_screen_text": "Verde",
+      "sound": "gentle rustle"
+    },
+    {
+      "id": 6,
+      "duration": 8,
+      "setting": "cream background with four large colored circles in a row",
+      "visual": "Four big circles in red, yellow, blue and green appear one after another, Pipo stands beside them",
+      "characters": [
+        "pipo"
+      ],
+      "action": "Pipo points to each circle in turn",
+      "camera": "static, wide shot",
+      "narration": "Vermelho, amarelo, azul e verde!",
+      "on_screen_text": "",
+      "sound": "one soft note for each circle"
+    },
+    {
+      "id": 7,
+      "duration": 6,
+      "setting": "sunny meadow with three tall sunflowers",
+      "visual": "Pipo jumps happily with a small rainbow of confetti in the air",
+      "characters": [
+        "pipo"
+      ],
+      "action": "Pipo jumps and lands smiling",
+      "camera": "slow pull-back",
+      "narration": "Você conseguiu! Tchau, amigo!",
+      "on_screen_text": "Tchau!",
+      "sound": "happy cheer, music resolves and fades"
+    }
+  ]
+}
